@@ -3,7 +3,7 @@
  I am a Front End Web Developer and a Graphic Designer. I know many web languages like html(hypertext markup language), CSS(cascading style sheet),bootstrap, JavaScript, Next js, Redux Toolkit, tailwind. I know the react js library of JavaScript. My first priority to satisfy my clients.
 
 - 💻 Currently working on React js a JavaScript library and Redux for building some of Front-end Web Development, Web Applications as well.
-- 👨🏽‍💻 Currently growing my skillset in [Redux toolkit](https://github.com/reduxjs/redux-toolkit) and [Next js](https://github.com/vercel/next.js/)
+- 👨🏽‍💻 Currently growing my skillset in [Redux toolkit](https://github.com/reduxjs/redux-toolkit), [Next js](https://github.com/vercel/next.js/) and [TypeScript](https://github.com/microsoft/TypeScript)
 
  **I am open to**:
 

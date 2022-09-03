@@ -1,14 +1,16 @@
 
+<h1 align='center'>Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="55px" width='55px'/></h1>
 <div align='center'>
-  Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="100" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height="300" width='600' data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
-<div align='center'>
-<img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</div>
- I am a Front End Web Developer and a Graphic Designer. I know many web languages like html(hypertext markup language), CSS(cascading style sheet),bootstrap, JavaScript, Next js, Redux Toolkit, tailwind. I know the react js library of JavaScript. My first priority to satisfy my clients.
 
-- 💻 Currently working on React js a JavaScript library and Redux for building some of Front-end Web Development, Web Applications as well.
-- 👨🏽‍💻 Currently growing my skillset in [Redux toolkit](https://github.com/reduxjs/redux-toolkit), [Next js](https://github.com/vercel/next.js/) and [TypeScript](https://github.com/microsoft/TypeScript)
+👨🏽‍💻 **About Me** **:**
+<br/>
+I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="40px" width='40px'/>  from Nepal.
+- 🔭 Currently I’m working as a Frontend Developer ( React & Next ) for building web applications..
+- 🌱 Exploring [TypeScript](https://github.com/microsoft/TypeScript) and Web3.0 Technology.
+- ⚡ In my free time, I watch tech tutorial on youtube, play supercell games and so on.
+
 
  **I am open to**:
 
@@ -43,8 +45,8 @@
 #### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20-Studio-orange)&nbsp;
-## Connect with me:
 
+## Connect with me:
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudarshan-timilsina-39b05723b/)

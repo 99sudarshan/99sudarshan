@@ -55,7 +55,7 @@ I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeTha
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/su__darshan99/)
 </p>
 
-| <a href="https://github.com/99sudarshan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=99sudarshan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sudarshan's github stats" /></a> | <a href="https://github.com/99sudarshan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=99sudarshan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/99sudarshan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=99sudarshan&show_icons=true&theme=buefy&hide_border=true" alt="Sudarshan's github stats" /></a> | <a href="https://github.com/99sudarshan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=99sudarshan&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 <!-- 

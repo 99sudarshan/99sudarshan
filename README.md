@@ -8,7 +8,6 @@ Connect with me :
 [<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />](https://www.upwork.com/freelancers/~01b3c99e6cfb33c063)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/su__darshan99/)
 </div>
-
 <h2 align='center'>Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50px" width='50px'/></h1>
 <div align='center'>
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height="300" width='600' data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">

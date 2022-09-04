@@ -1,12 +1,21 @@
+<P align='center'><img src="https://user-images.githubusercontent.com/91446640/188295455-4d036d10-d0b6-442e-872e-5977e48ebd71.gif" height="180" width='150'/></p>
 
-<h1 align='center'>Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="55px" width='55px'/></h1>
+<div align = "center">
+Connect with me :
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudarshan-timilsina-39b05723b/)
+[<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />](https://www.fiverr.com/developersudpro?up_rollout=true)
+[<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />](https://www.upwork.com/freelancers/~01b3c99e6cfb33c063)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/su__darshan99/)
+</div>
+
+<h2 align='center'>Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50px" width='50px'/></h1>
 <div align='center'>
 <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height="300" width='600' data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
-👨🏽‍💻 **About Me** **:**
-<br/>
-I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="40px" width='40px'/>  from Nepal.
+### 👨‍💻 About Me :
+I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="30px" width='40px'/>  from Nepal.
 - 🔭 Currently I’m working as a Frontend Developer ( React & Next ) for building web applications..
 - 🌱 Exploring [TypeScript](https://github.com/microsoft/TypeScript) and Web3.0 Technology.
 - ⚡ In my free time, I watch tech tutorial on youtube, play supercell games and so on.
@@ -25,9 +34,7 @@ I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeTha
 - Material UI/Headless UI/Antd
 - and More
 
-## Skills:
-
-#### Languages & Tools:
+### 🛠️ Languages & Tools :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -39,22 +46,11 @@ I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeTha
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Type Script](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
-
-#### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20-Studio-orange)&nbsp;
 
-## Connect with me:
-<p align = "center">
- 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudarshan-timilsina-39b05723b/)
-[<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />](https://www.fiverr.com/developersudpro?up_rollout=true)
-[<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />](https://www.upwork.com/freelancers/~01b3c99e6cfb33c063)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/su__darshan99/)
-</p>
 
+
+### 🔥 My Stats :
 | <a href="https://github.com/99sudarshan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=99sudarshan&show_icons=true&theme=buefy&hide_border=true" alt="Sudarshan's github stats" /></a> | <a href="https://github.com/99sudarshan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=99sudarshan&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 

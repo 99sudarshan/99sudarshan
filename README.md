@@ -33,6 +33,7 @@ I am a passionate Frontend Developer <img src="https://raw.githubusercontent.com
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
 ![Web3](https://img.shields.io/badge/Web3-2ecc71?style=for-the-badge&logo=web3)&nbsp;
+![Graphql](https://img.shields.io/badge/Graphql-555555?style=for-the-badge&logo=graphql)&nbsp;
 
 
 

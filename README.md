@@ -19,20 +19,6 @@ I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeTha
 - 🌱 Exploring Web3.0 Technology.
 - ⚡ In my free time, I watch tech tutorial on youtube, play supercell games and so on.
 
-
- **I am open to**:
-
-- any collobration work,
-- Core Javascript
-- React Js
-- Redux
-- API integration
-- HTML & CSS Frameworks
-- PSD, Figma to HTML 
-- Json Server
-- Material UI/Headless UI/Antd
-- and More
-
 ### 🛠️ Languages & Tools :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;

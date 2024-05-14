@@ -16,7 +16,7 @@ Connect with me :
 ### 👨‍💻 About Me :
 I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="30px" width='40px'/>  from Nepal.
 - 🔭 Currently I’m working as a Frontend Developer ( React & Next ) for building web applications..
-- 🌱 Exploring [TypeScript](https://github.com/microsoft/TypeScript) and Web3.0 Technology.
+- 🌱 Exploring Web3.0 Technology.
 - ⚡ In my free time, I watch tech tutorial on youtube, play supercell games and so on.
 
 
@@ -46,6 +46,8 @@ I am a Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeTha
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Type Script](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
+![Web3](https://img.shields.io/badge/Web3-2ecc71?style=for-the-badge&logo=web3)&nbsp;
 
 
 

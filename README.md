@@ -1,4 +1,4 @@
-<P align='center'><img src="https://user-images.githubusercontent.com/91446640/188295455-4d036d10-d0b6-442e-872e-5977e48ebd71.gif" height="180" width='150'/></p>
+<!--<P align='center'><img src="https://user-images.githubusercontent.com/91446640/188295455-4d036d10-d0b6-442e-872e-5977e48ebd71.gif" height="180" width='150'/></p>-->
 
 <div align = "center">
 Connect with me :

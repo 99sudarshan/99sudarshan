@@ -2,7 +2,7 @@
 <P align='center'><img src="https://user-images.githubusercontent.com/91446640/188295455-4d036d10-d0b6-442e-872e-5977e48ebd71.gif" height="180" width='150'/></p>
 https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif
 -->
-<h2 align='center'>Hey there, <img src="https://camo.githubusercontent.com/0c732027af8a28d…a434c467a6361737252346961377a2f67697068792e676966" height="40px" width='50px'/></h1>
+<h2 align='center'>Hey there, <img src="https://giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width='50px'/></h1>
 <div align='center'>
 <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="300" width='450' data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>

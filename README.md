@@ -15,7 +15,7 @@ Connect with me :
 
 ### 👨‍💻 About Me :
 I am a passionate Frontend Developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="30px" width='40px'/>.
-- 🔭 Currently I’m working as a Frontend Developer ( React & Next & Web3js ) for building DAPP and web App.
+- 🔭 Currently I’m working as a Frontend Developer ( React, Next & Web3js ) for building DAPP and web App.
 - 🌱 Exploring Web3.0 Technology.
 - ⚡ In my free time, I watch tech tutorial on youtube, play supercell games and so on.
 
